@@ -10,11 +10,11 @@ const LetterBox = ({ mode='playing', children, onClick, className, ...props }) =
     if (isVowel) {
         let classNameToSet = styles.box + " " + className + ' '
 
-        if (mode=='playing') 
+        if (mode==='playing') 
             classNameToSet += styles.playingBox
-        else if (mode=='right') 
+        else if (mode==='right') 
             classNameToSet += styles.rightBox
-        else  if (mode=='not-right')
+        else  if (mode==='not-right')
             classNameToSet += styles.notRightBox
         return (
             <div

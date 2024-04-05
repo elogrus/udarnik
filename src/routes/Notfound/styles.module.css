@@ -3,11 +3,23 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 5rem 0;
-    font-size: 2rem;
+    gap: 20px;
+    padding: 5rem 10px;
     gap: 2rem;
+    font-size: 2rem;
 }
 
 .container p {
     font-size: 3rem;
+    text-align: center;
+    font-family: "Play", sans-serif;
+}
+
+@media (max-width:500px) {
+    .container {
+        font-size: 1.5em;
+    }
+    .container p {
+        font-size: 2rem;
+    }
 }

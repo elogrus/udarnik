@@ -10,8 +10,10 @@
 
 .container {
     max-width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     gap: 40px;
     padding: 0 20px;
 }
@@ -37,6 +39,8 @@
 .navbarItem:hover {
     opacity: 0.75;
 }
+
+.logo {}
 
 .logolink:hover {
     opacity: 0.75;

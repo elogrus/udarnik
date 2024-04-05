@@ -19,20 +19,27 @@
 
 .score {
     font-family: "Play", sans-serif;
-    font-size: 40px;
+    font-size: 2em;
 }
 
 .startButton {
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 .wordPlayground {
     display: flex;
     gap: 2px;
     /* background-color: rgb(243, 243, 243); */
-    padding: 4px; 
+    max-width: 95vw;
 }
 .title {
     font-family: "Play", sans-serif;
     font-size: 2rem;
+}
+
+
+@media (max-width:500px) {
+    .startButton {
+        font-size: 1.5rem;
+    }
 }

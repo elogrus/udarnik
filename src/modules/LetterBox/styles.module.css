@@ -8,6 +8,8 @@
     border-radius: 0.5em;
     padding: 2px;
     font-family: "Play", sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
 }
 
 .playingBox {
@@ -29,7 +31,31 @@
     border: 2px solid lightcoral;
 }
 
+@media (max-width:500px) {
+    .box {
+        width: 1em;
+        height: 1.5em;
+    }
 
+    .playingBox {
+        width: 1.5em;
+        height: 1.5em;
+        border: 2px solid gray;
+        cursor: pointer;
+    }
+
+    .rightBox {
+        width: 1.5em;
+        height: 1.5em;
+        border: 2px solid lightgreen;
+    }
+
+    .notRightBox {
+        width: 1.5em;
+        height: 1.5em;
+        border: 2px solid lightcoral;
+    }
+}
 
 .vowelBox:hover {
     border-color: #7C4DFF;
