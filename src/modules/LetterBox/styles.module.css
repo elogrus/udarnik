@@ -1,0 +1,43 @@
+.box {
+    width: 1.5em;
+    height: 2em;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5em;
+    padding: 2px;
+    font-family: "Play", sans-serif;
+}
+
+.playingBox {
+    width: 2em;
+    height: 2em;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+
+.rightBox {
+    width: 2em;
+    height: 2em;
+    border: 2px solid lightgreen;
+}
+
+.notRightBox {
+    width: 2em;
+    height: 2em;
+    border: 2px solid lightcoral;
+}
+
+
+
+.vowelBox:hover {
+    border-color: #7C4DFF;
+    opacity: 0.9;
+}
+
+.vowelBox:active {
+    background-color: #7C4DFF;
+    color: #fff;
+    opacity: 0.75;
+}
