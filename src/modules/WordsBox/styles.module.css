@@ -1,0 +1,48 @@
+.content {
+    display: flex;
+    flex-direction: column;
+
+    padding: 10px 20px;
+    gap: 0.2rem;
+    font-size: 1.1rem;
+    font-family: "Play", sans-serif;
+
+    border: 1px solid gray;
+    border-radius: 1rem;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.words {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 0 0 2px;
+}
+
+.word {
+    width: fit-content;
+    cursor: text;
+}
+
+.wordEmph {
+    position: relative;
+    color: red;
+    z-index: -1;
+    /* text-emphasis: filled dot red; */
+}
+
+.wordEmph::after {
+    content: 'ˈ';
+    width: 1em;
+    height: 0;
+    position: absolute;
+    z-index: -2;
+    left: 20%;
+    top: -5px;
+}

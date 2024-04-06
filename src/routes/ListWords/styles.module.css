@@ -1,0 +1,15 @@
+.container {
+    padding-top: 140px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.words {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    gap: 20px;
+}

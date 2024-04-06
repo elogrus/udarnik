@@ -44,6 +44,8 @@ const Game = ({ countWords = 10, showRecord = true }) => {
     const goNextWord = (right) => {
         if (right) {
             if (curStep + 1 === countWords) {
+                addScore();
+                setRecord(score);
                 return stopGame(true);
             }
 
@@ -55,7 +57,7 @@ const Game = ({ countWords = 10, showRecord = true }) => {
             addScore();
         } else {
             setRecord(score);
-            setTimeout(stopGame(), 2000);
+            stopGame()
         }
     };
 
@@ -106,6 +108,7 @@ const Game = ({ countWords = 10, showRecord = true }) => {
 
             {gameStatus === "ended" && (
                 <>
+                    <ScorePanel finishScore={countWords}>{score}</ScorePanel>
                     {isLastWon && <p className={styles.title}>Вы победили!</p>}
 
                     {showRecord && (

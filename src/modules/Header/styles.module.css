@@ -6,6 +6,8 @@
     width: 100%;
     padding: 8px 0;
     background: #7C4DFF;
+    z-index: 1000;
+    top: 0;
 }
 
 .container {
@@ -24,6 +26,14 @@
     gap: 20px;
 }
 
+.burgerNavbar {
+    display: none;
+}
+
+.defaultNavbar {
+    display: flex;
+}
+
 .navbarItem {
     color: #fff;
     text-decoration: none;
@@ -33,6 +43,7 @@
     align-items: center;
     width: fit-content;
     font-family: "Play", sans-serif;
+    font-size: 1rem;
     font-weight: 600;
 }
 
@@ -40,8 +51,94 @@
     opacity: 0.75;
 }
 
-.logo {}
-
 .logolink:hover {
     opacity: 0.75;
+}
+
+.logo {
+    display: block;
+}
+
+.minlogo {
+    display: none;
+}
+
+
+
+.bmBurgerButton {
+    position: relative;
+    width: 36px;
+    height: 30px;
+}
+
+.bmBurgerBars {
+    background: #fff;
+}
+
+.bmBurgerBars:hover {
+    background: #a90000;
+}
+
+.bmCrossButton {
+    height: 24px;
+    width: 24px;
+}
+
+.bmCross {
+    background: #bdc3c7;
+}
+
+.bmMenuWrap {
+    position: fixed;
+    top: 0;
+    height: 100%;
+}
+
+.bm-menu-wrap {
+    top: 0; 
+}
+
+.bmMenu {
+    background: #7C4DFF;
+    box-shadow: 12px 0 30px 0px rgba(0, 0, 0, 0.1) inset;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+}
+
+.bmMorphShape {
+    fill: #373a47;
+}
+
+.bmItemList {
+    color: #b8b7ad;
+    padding: 0.8em;
+}
+
+.bmItem {
+    display: inline-block;
+    padding: 0.8em 0;
+}
+
+.bmOverlay {
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width:500px) {
+    .logo {
+        display: none;
+    }
+
+    .minlogo {
+        display: block;
+    }
+
+    .burgerNavbar {
+        display: flex;
+    }
+
+    .defaultNavbar {
+        display: none;
+    }
 }

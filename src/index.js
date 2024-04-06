@@ -6,6 +6,8 @@ import Notfound from "./routes/Notfound/Notfound";
 import Root from "./routes/Root/Root";
 import Test from "./routes/Test/Test";
 import Survival from "./routes/Survival/Survival";
+import ListWords from "./routes/ListWords/ListWords";
+import Lifehacks from "./routes/Lifehacks/Lifehacks";
 
 const router = createHashRouter([
     {
@@ -23,11 +25,17 @@ const router = createHashRouter([
         errorElement: <Notfound />,
         element: <Survival />,
     },
+    {
+        path: "/listwords",
+        errorElement: <Notfound />,
+        element: <ListWords />,
+    },
+    {
+        path: "/lifehacks",
+        errorElement: <Notfound />,
+        element: <Lifehacks />,
+    },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-    <React.StrictMode>
-        <RouterProvider router={router} />
-    </React.StrictMode>,
-);
+root.render(<RouterProvider router={router} />);
