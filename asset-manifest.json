@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/udarnik/static/css/main.2549f8b0.css",
-    "main.js": "/udarnik/static/js/main.27ae6329.js",
+    "main.js": "/udarnik/static/js/main.229dcf16.js",
     "index.html": "/udarnik/index.html",
     "main.2549f8b0.css.map": "/udarnik/static/css/main.2549f8b0.css.map",
-    "main.27ae6329.js.map": "/udarnik/static/js/main.27ae6329.js.map"
+    "main.229dcf16.js.map": "/udarnik/static/js/main.229dcf16.js.map"
   },
   "entrypoints": [
     "static/css/main.2549f8b0.css",
-    "static/js/main.27ae6329.js"
+    "static/js/main.229dcf16.js"
   ]
 }
