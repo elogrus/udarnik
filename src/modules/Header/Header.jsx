@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import WhiteLogo from "../Assets/WhiteLogo";
 import WhiteMinLogo from "../Assets/WhiteMinLogo";
 import { slide as Menu } from "react-burger-menu";
+import BlackMinLogo from "../Assets/BlackMinLogo";
 
 const Header = () => {
     return (
@@ -11,7 +12,7 @@ const Header = () => {
             <div className={styles.container}>
                 <Link className={styles.logolink} to={`/`}>
                     <WhiteMinLogo className={styles.minlogo} />
-                    <WhiteLogo className={styles.logo} />
+                    <BlackMinLogo className={styles.logo} />
                 </Link>
                 <nav className={styles.navbar + " " + styles.burgerNavbar}>
                     <Menu

@@ -14,6 +14,7 @@ const BlackMinLogo = (props) => (
             </style>
             <text
                 xmlSpace="preserve"
+                fontFamily="Marck Script"
                 fontSize={50}
                 style={{
                     fontFamily: "&quot",
@@ -30,7 +31,7 @@ const BlackMinLogo = (props) => (
                     whiteSpace: "pre",
                 }}
                 transform="translate(91.414 26.559)">
-                <tspan x={-70} y={35}>
+                <tspan x={-75} y={32} rotate={-10}>
                     {"У"}
                 </tspan>
             </text>
@@ -51,7 +52,7 @@ const BlackMinLogo = (props) => (
                 fillRule: "nonzero",
                 opacity: 1,
             }}
-            transform="matrix(.167 .06747 -.1832 .45344 51 18)"
+            transform="matrix(.167 .06747 -.1832 .45344 44 15)"
         />
     </svg>
 );
