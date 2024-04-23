@@ -5,7 +5,6 @@ import wordsJson from "../../Words/words.json";
 import WordsBox from "../../modules/WordsBox/WordsBox";
 
 const ListWords = () => {
-    // adjective verb participle adverb
     const wordsToRender = {
         noun: [],
         adjective: [],

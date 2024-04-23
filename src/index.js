@@ -8,6 +8,7 @@ import Test from "./routes/Test/Test";
 import Survival from "./routes/Survival/Survival";
 import ListWords from "./routes/ListWords/ListWords";
 import Lifehacks from "./routes/Lifehacks/Lifehacks";
+import Aboutme from "./routes/Aboutme/Aboutme";
 
 const router = createHashRouter([
     {
@@ -34,6 +35,11 @@ const router = createHashRouter([
         path: "/lifehacks",
         errorElement: <Notfound />,
         element: <Lifehacks />,
+    },
+    {
+        path: "/aboutme",
+        errorElement: <Notfound />,
+        element: <Aboutme />,
     },
 ]);
 

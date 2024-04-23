@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./styles.module.css";
 import Header from "../../modules/Header/Header";
-import WordsBox from "../../modules/WordsBox/WordsBox";
 
 const Lifehacks = () => {
     return (

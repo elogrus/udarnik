@@ -25,7 +25,6 @@ const Header = () => {
                         itemListClassName={styles.bmItemList}
                         itemClassName={styles.bmItem}
                         overlayClassName={styles.bmOverlay}
-                        // styles={burgerStyles}
                         right>
                         <Link className={styles.navbarItem} to={`/test/`}>
                             Тест из 10 слов
@@ -38,6 +37,9 @@ const Header = () => {
                         </Link>
                         <Link className={styles.navbarItem} to={`/lifehacks/`}>
                             Лайфхаки
+                        </Link>
+                        <Link className={styles.navbarItem} to={`/aboutme/`}>
+                            Обо мне
                         </Link>
                     </Menu>
                 </nav>
@@ -53,6 +55,9 @@ const Header = () => {
                     </Link>
                     <Link className={styles.navbarItem} to={`/lifehacks/`}>
                         Лайфхаки
+                    </Link>
+                    <Link className={styles.navbarItem} to={`/aboutme/`}>
+                        Обо мне
                     </Link>
                 </nav>
             </div>

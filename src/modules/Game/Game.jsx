@@ -15,13 +15,9 @@ const Game = ({ countWords = 10, showRecord = true }) => {
     const [curStep, setCurStep] = useState(0);
     const [lastSelectedIndex, setLastSelectedIndex] = useState(0);
     const [isLastWon, setIsLastWon] = useState(false);
-    // const [wasIds, setWasIds] = useState([]);
-
-    console.log("status:", gameStatus);
-    console.log("score:", score);
 
     const setRecord = (record) => {
-        localStorage.setItem("record", record);
+        if (localStorage.getItem('record') < record) localStorage.setItem("record", record);
     };
 
     const startGame = () => {
@@ -81,7 +77,7 @@ const Game = ({ countWords = 10, showRecord = true }) => {
                     )}
                     {showRecord && (
                         <p className={styles.score}>
-                            Текущий рекорд: {localStorage.getItem("record")}
+                            Текущий рекорд: {localStorage.getItem("record") || 0}
                         </p>
                     )}
                     <Button className={styles.startButton} onClick={startGame}>
@@ -113,7 +109,7 @@ const Game = ({ countWords = 10, showRecord = true }) => {
 
                     {showRecord && (
                         <p className={styles.score}>
-                            Текущий рекорд: {localStorage.getItem("record")}
+                            Текущий рекорд: {localStorage.getItem("record") || 0}
                         </p>
                     )}
                     {!isLastWon && (
