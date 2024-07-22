@@ -10,7 +10,7 @@ const Lifehacks = () => {
             <div className={styles.lifehacks}>
                 <span className={styles.lifehack}>
                     В словах с корнями "-лог" и "-вод" часто ударение падает на
-                    него.
+                    них.
                     <span className={styles.example}>
                         Катал<e>о</e>г, некрол<e>о</e>г, прол<e>о</e>г, диал
                         <e>о</e>г, монол<e>о</e>г
@@ -26,7 +26,7 @@ const Lifehacks = () => {
 
                 <span className={styles.lifehack}>
                     Если в слове есть буква Ё, то на нее (почти) всегда падает
-                    ударение. Гранёный, далёкий, жжёный
+                    ударение.
                     <span className={styles.example}>
                         Гран<e>ё</e>ный, дал<e>ё</e>кий, жж<e>ё</e>ный
                     </span>

@@ -39,7 +39,7 @@ const Header = () => {
                             Лайфхаки
                         </Link>
                         <Link className={styles.navbarItem} to={`/aboutme/`}>
-                            Обо мне
+                            Об авторе
                         </Link>
                     </Menu>
                 </nav>
@@ -57,7 +57,7 @@ const Header = () => {
                         Лайфхаки
                     </Link>
                     <Link className={styles.navbarItem} to={`/aboutme/`}>
-                        Обо мне
+                        Об авторе
                     </Link>
                 </nav>
             </div>

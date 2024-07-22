@@ -7,7 +7,8 @@ const Aboutme = () => {
         <div className={styles.container}>
             <Header />
             <div className={styles.text}>
-                Я Плюснин Александр, живу в Лангепасе. Люблю кота и программировать. Вот.
+                Разработано Плюсниным Александром.<br/>
+                <a href="https://elogrus.github.io/mypage" target="_blank">https://elogrus.github.io/mypage</a>
             </div>
         </div>
     );
