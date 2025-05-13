@@ -30,6 +30,11 @@
     cursor: text;
 }
 
+.wordContext {
+    opacity: 0.75;
+    font-size: .9em;
+}
+
 .wordEmph {
     position: relative;
     color: red;
@@ -38,7 +43,7 @@
 }
 
 .wordEmph::after {
-    content: 'ˈ';
+    content: "ˈ";
     width: 1em;
     height: 0;
     position: absolute;

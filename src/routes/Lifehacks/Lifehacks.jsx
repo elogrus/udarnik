@@ -26,7 +26,7 @@ const Lifehacks = () => {
 
                 <span className={styles.lifehack}>
                     Если в слове есть буква Ё, то на нее (почти) всегда падает
-                    ударение.
+                    ударение (в реальных вариантах "Ё" заменена на "Е").
                     <span className={styles.example}>
                         Гран<e>ё</e>ный, дал<e>ё</e>кий, жж<e>ё</e>ный
                     </span>

@@ -10,8 +10,16 @@ const WordsBox = ({ title, words }) => {
                     <>
                         <p className={styles.word}>
                             {word.word.slice(0, word.emphasisIndex)}
-                            <span className={styles.word + ' ' + styles.wordEmph}>{word.word[word.emphasisIndex]}</span>
-                            {word.word.slice(word.emphasisIndex + 1, word.length)}
+                            <span
+                                className={styles.word + " " + styles.wordEmph}
+                            >
+                                {word.word[word.emphasisIndex]}
+                            </span>
+                            {word.word.slice(
+                                word.emphasisIndex + 1,
+                                word.length
+                            )}
+                            {word.context && <span className={styles.wordContext}> ({word.context})</span>}
                         </p>
                     </>
                 ))}

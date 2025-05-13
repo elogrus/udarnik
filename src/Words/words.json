@@ -1,1052 +1,214 @@
 [
+    { "word": "аэропорты", "emphasisIndex": 5, "type": "noun" },
+    { "word": "банты", "emphasisIndex": 1, "type": "noun" },
+    { "word": "бороду", "emphasisIndex": 1, "type": "noun" },
+    { "word": "бухгалтеров", "emphasisIndex": 4, "type": "noun" },
+    { "word": "вероисповедание", "emphasisIndex": 9, "type": "noun" },
+    { "word": "водопровод", "emphasisIndex": 8, "type": "noun" },
+    { "word": "газопровод", "emphasisIndex": 8, "type": "noun" },
+    { "word": "гражданство", "emphasisIndex": 5, "type": "noun" },
+    { "word": "дефис", "emphasisIndex": 3, "type": "noun" },
+    { "word": "дешевизна", "emphasisIndex": 5, "type": "noun" },
+    { "word": "диспансер", "emphasisIndex": 7, "type": "noun" },
+    { "word": "договоренность", "emphasisIndex": 7, "type": "noun" },
+    { "word": "документ", "emphasisIndex": 5, "type": "noun" },
+    { "word": "досуг", "emphasisIndex": 3, "type": "noun" },
+    { "word": "еретик", "emphasisIndex": 4, "type": "noun" },
+    { "word": "жалюзи", "emphasisIndex": 5, "type": "noun" },
+    { "word": "значимость", "emphasisIndex": 2, "type": "noun" },
+    { "word": "иксы", "emphasisIndex": 0, "type": "noun" },
+    { "word": "каталог", "emphasisIndex": 5, "type": "noun" },
+    { "word": "квартал", "emphasisIndex": 5, "type": "noun" },
+    { "word": "километр", "emphasisIndex": 5, "type": "noun" },
+    { "word": "конусов", "emphasisIndex": 1, "type": "noun" },
+    { "word": "корысть", "emphasisIndex": 3, "type": "noun" },
+    { "word": "краны", "emphasisIndex": 2, "type": "noun" },
+    { "word": "кремень", "emphasisIndex": 4, "type": "noun" },
+    { "word": "лекторов", "emphasisIndex": 1, "type": "noun" },
+    { "word": "локтя", "emphasisIndex": 1, "type": "noun" },
+    { "word": "лыжня", "emphasisIndex": 4, "type": "noun" },
+    { "word": "местностей", "emphasisIndex": 1, "type": "noun" },
+    { "word": "намерение", "emphasisIndex": 3, "type": "noun" },
+    { "word": "нарост", "emphasisIndex": 3, "type": "noun" },
+    { "word": "недруг", "emphasisIndex": 1, "type": "noun" },
+    { "word": "недуг", "emphasisIndex": 3, "type": "noun" },
+    { "word": "некролог", "emphasisIndex": 6, "type": "noun" },
+    { "word": "ненависть", "emphasisIndex": 1, "type": "noun" },
+    { "word": "нефтепровод", "emphasisIndex": 9, "type": "noun" },
+    { "word": "новостей", "emphasisIndex": 6, "type": "noun" },
+    { "word": "ногтя", "emphasisIndex": 1, "type": "noun" },
     {
-        "word": "\u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u044b",
-        "wordWithEmphasis": "\u0430\u044d\u0440\u043e\u043f\u041e\u0440\u0442\u044b",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u0431\u0430\u043d\u0442\u044b",
-        "wordWithEmphasis": "\u0431\u0410\u043d\u0442\u044b",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u0431\u043e\u0440\u043e\u0434\u0443",
-        "wordWithEmphasis": "\u0431\u041e\u0440\u043e\u0434\u0443",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u043e\u0432",
-        "wordWithEmphasis": "\u0431\u0443\u0445\u0433\u0410\u043b\u0442\u0435\u0440\u043e\u0432",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u0432\u0435\u0440\u043e\u0438\u0441\u043f\u043e\u0432\u0435\u0434\u0430\u043d\u0438\u0435",
-        "wordWithEmphasis": "\u0432\u0435\u0440\u043e\u0438\u0441\u043f\u043e\u0432\u0415\u0434\u0430\u043d\u0438\u0435",
-        "emphasisIndex": 9,
-        "type": "noun"
-    },
-    {
-        "word": "\u0432\u043e\u0434\u043e\u043f\u0440\u043e\u0432\u043e\u0434",
-        "wordWithEmphasis": "\u0432\u043e\u0434\u043e\u043f\u0440\u043e\u0432\u041e\u0434",
-        "emphasisIndex": 8,
-        "type": "noun"
-    },
-    {
-        "word": "\u0433\u0430\u0437\u043e\u043f\u0440\u043e\u0432\u043e\u0434",
-        "wordWithEmphasis": "\u0433\u0430\u0437\u043e\u043f\u0440\u043e\u0432\u041e\u0434",
-        "emphasisIndex": 8,
-        "type": "noun"
-    },
-    {
-        "word": "\u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u0442\u0432\u043e",
-        "wordWithEmphasis": "\u0433\u0440\u0430\u0436\u0434\u0410\u043d\u0441\u0442\u0432\u043e",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u0434\u0435\u0444\u0438\u0441",
-        "wordWithEmphasis": "\u0434\u0435\u0444\u0418\u0441",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0434\u0435\u0448\u0435\u0432\u0438\u0437\u043d\u0430",
-        "wordWithEmphasis": "\u0434\u0435\u0448\u0435\u0432\u0418\u0437\u043d\u0430",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u0434\u0438\u0441\u043f\u0430\u043d\u0441\u0435\u0440",
-        "wordWithEmphasis": "\u0434\u0438\u0441\u043f\u0430\u043d\u0441\u0415\u0440",
-        "emphasisIndex": 7,
-        "type": "noun"
-    },
-    {
-        "word": "\u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0451\u043d\u043d\u043e\u0441\u0442\u044c",
-        "wordWithEmphasis": "\u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0401\u043d\u043d\u043e\u0441\u0442\u044c",
-        "emphasisIndex": 7,
-        "type": "noun"
-    },
-    {
-        "word": "\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442",
-        "wordWithEmphasis": "\u0434\u043e\u043a\u0443\u043c\u0415\u043d\u0442",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u0434\u043e\u0441\u0443\u0433",
-        "wordWithEmphasis": "\u0434\u043e\u0441\u0423\u0433",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0435\u0440\u0435\u0442\u0438\u043a",
-        "wordWithEmphasis": "\u0435\u0440\u0435\u0442\u0418\u043a",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u0436\u0430\u043b\u044e\u0437\u0438",
-        "wordWithEmphasis": "\u0436\u0430\u043b\u044e\u0437\u0418",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u044c",
-        "wordWithEmphasis": "\u0437\u043d\u0410\u0447\u0438\u043c\u043e\u0441\u0442\u044c",
-        "emphasisIndex": 2,
-        "type": "noun"
-    },
-    {
-        "word": "\u0438\u043a\u0441\u044b",
-        "wordWithEmphasis": "\u0418\u043a\u0441\u044b",
+        "word": "отзыв",
         "emphasisIndex": 0,
-        "type": "noun"
+        "type": "noun",
+        "context": "о книге"
     },
     {
-        "word": "\u043a\u0430\u0442\u0430\u043b\u043e\u0433",
-        "wordWithEmphasis": "\u043a\u0430\u0442\u0430\u043b\u041e\u0433",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u043a\u0432\u0430\u0440\u0442\u0430\u043b",
-        "wordWithEmphasis": "\u043a\u0432\u0430\u0440\u0442\u0410\u043b",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440",
-        "wordWithEmphasis": "\u043a\u0438\u043b\u043e\u043c\u0415\u0442\u0440",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u043a\u043e\u043d\u0443\u0441\u043e\u0432",
-        "wordWithEmphasis": "\u043a\u041e\u043d\u0443\u0441\u043e\u0432",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043a\u043e\u0440\u044b\u0441\u0442\u044c",
-        "wordWithEmphasis": "\u043a\u043e\u0440\u042b\u0441\u0442\u044c",
+        "word": "отзыв",
         "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u043a\u0440\u0430\u043d\u044b",
-        "wordWithEmphasis": "\u043a\u0440\u0410\u043d\u044b",
-        "emphasisIndex": 2,
-        "type": "noun"
-    },
-    {
-        "word": "\u043a\u0440\u0435\u043c\u0435\u043d\u044c",
-        "wordWithEmphasis": "\u043a\u0440\u0435\u043c\u0415\u043d\u044c",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u043b\u0435\u043a\u0442\u043e\u0440\u043e\u0432",
-        "wordWithEmphasis": "\u043b\u0415\u043a\u0442\u043e\u0440\u043e\u0432",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043b\u043e\u043a\u0442\u044f",
-        "wordWithEmphasis": "\u043b\u041e\u043a\u0442\u044f",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043b\u044b\u0436\u043d\u044f",
-        "wordWithEmphasis": "\u043b\u044b\u0436\u043d\u042f",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u043c\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u0435\u0439",
-        "wordWithEmphasis": "\u043c\u0415\u0441\u0442\u043d\u043e\u0441\u0442\u0435\u0439",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435",
-        "wordWithEmphasis": "\u043d\u0430\u043c\u0415\u0440\u0435\u043d\u0438\u0435",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0430\u0440\u043e\u0441\u0442",
-        "wordWithEmphasis": "\u043d\u0430\u0440\u041e\u0441\u0442",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0435\u0434\u0440\u0443\u0433",
-        "wordWithEmphasis": "\u043d\u0415\u0434\u0440\u0443\u0433",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0435\u0434\u0443\u0433",
-        "wordWithEmphasis": "\u043d\u0435\u0434\u0423\u0433",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0435\u043a\u0440\u043e\u043b\u043e\u0433",
-        "wordWithEmphasis": "\u043d\u0435\u043a\u0440\u043e\u043b\u041e\u0433",
-        "emphasisIndex": 6,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0435\u043d\u0430\u0432\u0438\u0441\u0442\u044c",
-        "wordWithEmphasis": "\u043d\u0415\u043d\u0430\u0432\u0438\u0441\u0442\u044c",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u0435\u0444\u0442\u0435\u043f\u0440\u043e\u0432\u043e\u0434",
-        "wordWithEmphasis": "\u043d\u0435\u0444\u0442\u0435\u043f\u0440\u043e\u0432\u041e\u0434",
-        "emphasisIndex": 9,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u043e\u0432\u043e\u0441\u0442\u0435\u0439",
-        "wordWithEmphasis": "\u043d\u043e\u0432\u043e\u0441\u0442\u0415\u0439",
-        "emphasisIndex": 6,
-        "type": "noun"
-    },
-    {
-        "word": "\u043d\u043e\u0433\u0442\u044f",
-        "wordWithEmphasis": "\u043d\u041e\u0433\u0442\u044f",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043e\u0442\u0437\u044b\u0432",
-        "wordWithEmphasis": "\u043e\u0442\u0437\u042b\u0432",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u043e\u0442\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e",
-        "wordWithEmphasis": "\u041e\u0442\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e",
-        "emphasisIndex": 0,
-        "type": "noun"
-    },
-    {
-        "word": "\u043f\u0430\u0440\u0442\u0435\u0440",
-        "wordWithEmphasis": "\u043f\u0430\u0440\u0442\u0415\u0440",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044c",
-        "wordWithEmphasis": "\u043f\u043e\u0440\u0442\u0444\u0415\u043b\u044c",
-        "emphasisIndex": 5,
-        "type": "noun"
-    },
-    {
-        "word": "\u043f\u043e\u0440\u0443\u0447\u043d\u0438",
-        "wordWithEmphasis": "\u043f\u041e\u0440\u0443\u0447\u043d\u0438",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u043f\u0440\u0438\u0434\u0430\u043d\u043e\u0435",
-        "wordWithEmphasis": "\u043f\u0440\u0438\u0434\u0410\u043d\u043e\u0435",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u043f\u0440\u0438\u0437\u044b\u0432",
-        "wordWithEmphasis": "\u043f\u0440\u0438\u0437\u042b\u0432",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u0432\u0451\u043a\u043b\u0430",
-        "wordWithEmphasis": "\u0441\u0432\u0401\u043a\u043b\u0430",
-        "emphasisIndex": 2,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u0438\u0440\u043e\u0442\u044b",
-        "wordWithEmphasis": "\u0441\u0438\u0440\u041e\u0442\u044b",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u043e\u0437\u044b\u0432",
-        "wordWithEmphasis": "\u0441\u043e\u0437\u042b\u0432",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0435\u043d\u0438\u0435",
-        "wordWithEmphasis": "\u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u041e\u0447\u0435\u043d\u0438\u0435",
-        "emphasisIndex": 8,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430",
-        "wordWithEmphasis": "\u0441\u0440\u0415\u0434\u0441\u0442\u0432\u0430",
-        "emphasisIndex": 2,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u0442\u0430\u0442\u0443\u044f",
-        "wordWithEmphasis": "\u0441\u0442\u0410\u0442\u0443\u044f",
-        "emphasisIndex": 2,
-        "type": "noun"
-    },
-    {
-        "word": "\u0441\u0442\u043e\u043b\u044f\u0440",
-        "wordWithEmphasis": "\u0441\u0442\u043e\u043b\u042f\u0440",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u0442\u0430\u043c\u043e\u0436\u043d\u044f",
-        "wordWithEmphasis": "\u0442\u0430\u043c\u041e\u0436\u043d\u044f",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0442\u043e\u0440\u0442\u044b",
-        "wordWithEmphasis": "\u0442\u041e\u0440\u0442\u044b",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u0442\u0443\u0444\u043b\u044f",
-        "wordWithEmphasis": "\u0442\u0423\u0444\u043b\u044f",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u0446\u0435\u043c\u0435\u043d\u0442",
-        "wordWithEmphasis": "\u0446\u0435\u043c\u0415\u043d\u0442",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0446\u0435\u043d\u0442\u043d\u0435\u0440",
-        "wordWithEmphasis": "\u0446\u0415\u043d\u0442\u043d\u0435\u0440",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u0446\u0435\u043f\u043e\u0447\u043a\u0430",
-        "wordWithEmphasis": "\u0446\u0435\u043f\u041e\u0447\u043a\u0430",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u0448\u0430\u0440\u0444\u044b",
-        "wordWithEmphasis": "\u0448\u0410\u0440\u0444\u044b",
-        "emphasisIndex": 1,
-        "type": "noun"
-    },
-    {
-        "word": "\u0448\u043e\u0444\u0451\u0440",
-        "wordWithEmphasis": "\u0448\u043e\u0444\u0401\u0440",
-        "emphasisIndex": 3,
-        "type": "noun"
-    },
-    {
-        "word": "\u044d\u043a\u0441\u043f\u0435\u0440\u0442",
-        "wordWithEmphasis": "\u044d\u043a\u0441\u043f\u0415\u0440\u0442",
-        "emphasisIndex": 4,
-        "type": "noun"
-    },
-    {
-        "word": "\u0432\u0435\u0440\u043d\u0430",
-        "wordWithEmphasis": "\u0432\u0435\u0440\u043d\u0410",
-        "emphasisIndex": 4,
-        "type": "adjective"
-    },
-    {
-        "word": "\u0437\u043d\u0430\u0447\u0438\u043c\u044b\u0439",
-        "wordWithEmphasis": "\u0437\u043d\u0410\u0447\u0438\u043c\u044b\u0439",
-        "emphasisIndex": 2,
-        "type": "adjective"
-    },
-    {
-        "word": "\u043a\u0440\u0430\u0441\u0438\u0432\u0435\u0435",
-        "wordWithEmphasis": "\u043a\u0440\u0430\u0441\u0418\u0432\u0435\u0435",
-        "emphasisIndex": 4,
-        "type": "adjective"
-    },
-    {
-        "word": "\u043a\u0443\u0445\u043e\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043a\u0423\u0445\u043e\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 1,
-        "type": "adjective"
-    },
-    {
-        "word": "\u043b\u043e\u0432\u043a\u0430",
-        "wordWithEmphasis": "\u043b\u043e\u0432\u043a\u0410",
-        "emphasisIndex": 4,
-        "type": "adjective"
-    },
-    {
-        "word": "\u043c\u043e\u0437\u0430\u0438\u0447\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043c\u043e\u0437\u0430\u0418\u0447\u043d\u044b\u0439",
-        "emphasisIndex": 4,
-        "type": "adjective"
-    },
-    {
-        "word": "\u043e\u043f\u0442\u043e\u0432\u044b\u0439",
-        "wordWithEmphasis": "\u043e\u043f\u0442\u041e\u0432\u044b\u0439",
-        "emphasisIndex": 3,
-        "type": "adjective"
-    },
-    {
-        "word": "\u043f\u0440\u043e\u0437\u043e\u0440\u043b\u0438\u0432\u044b\u0439",
-        "wordWithEmphasis": "\u043f\u0440\u043e\u0437\u043e\u0440\u043b\u0418\u0432\u044b\u0439",
-        "emphasisIndex": 7,
-        "type": "adjective"
-    },
-    {
-        "word": "\u0441\u043b\u0438\u0432\u043e\u0432\u044b\u0439",
-        "wordWithEmphasis": "\u0441\u043b\u0418\u0432\u043e\u0432\u044b\u0439",
-        "emphasisIndex": 2,
-        "type": "adjective"
-    },
-    {
-        "word": "\u0431\u0440\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u0431\u0440\u0430\u043b\u0410",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0431\u0440\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0431\u0440\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u0437\u044f\u043b\u0430",
-        "wordWithEmphasis": "\u0432\u0437\u044f\u043b\u0410",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u0437\u044f\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0432\u0437\u044f\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u043b\u0438\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0432\u043b\u0438\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u043e\u0440\u0432\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0432\u043e\u0440\u0432\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u043e\u0441\u043f\u0440\u0438\u043d\u044f\u0442\u044c",
-        "wordWithEmphasis": "\u0432\u043e\u0441\u043f\u0440\u0438\u043d\u042f\u0442\u044c",
-        "emphasisIndex": 7,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u043e\u0441\u0441\u043e\u0437\u0434\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u0432\u043e\u0441\u0441\u043e\u0437\u0434\u0430\u043b\u0410",
-        "emphasisIndex": 9,
-        "type": "verb"
-    },
-    {
-        "word": "\u0432\u0440\u0443\u0447\u0438\u0442",
-        "wordWithEmphasis": "\u0432\u0440\u0443\u0447\u0418\u0442",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0433\u043d\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u0433\u043d\u0430\u043b\u0410",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0433\u043d\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0433\u043d\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0434\u043e\u0431\u0440\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u0434\u043e\u0431\u0440\u0430\u043b\u0410",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u0434\u043e\u0431\u0440\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0434\u043e\u0431\u0440\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u0434\u043e\u0436\u0434\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u0434\u043e\u0436\u0434\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u0434\u043e\u0437\u0432\u043e\u043d\u0438\u0442\u0441\u044f",
-        "wordWithEmphasis": "\u0434\u043e\u0437\u0432\u043e\u043d\u0418\u0442\u0441\u044f",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u0434\u043e\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c",
-        "wordWithEmphasis": "\u0434\u043e\u0437\u0418\u0440\u043e\u0432\u0430\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u0436\u0434\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u0436\u0434\u0430\u043b\u0410",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0436\u0438\u043b\u043e\u0441\u044c",
-        "wordWithEmphasis": "\u0436\u0438\u043b\u041e\u0441\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0430\u043a\u0443\u043f\u043e\u0440\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u0437\u0430\u043a\u0423\u043f\u043e\u0440\u0438\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0430\u043d\u044f\u0442\u044c",
-        "wordWithEmphasis": "\u0437\u0430\u043d\u042f\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0430\u043f\u0435\u0440\u043b\u0430",
-        "wordWithEmphasis": "\u0437\u0430\u043f\u0435\u0440\u043b\u0410",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0430\u043f\u043b\u043e\u043c\u0431\u0438\u0440\u043e\u0432\u0430\u0442\u044c",
-        "wordWithEmphasis": "\u0437\u0430\u043f\u043b\u043e\u043c\u0431\u0438\u0440\u043e\u0432\u0410\u0442\u044c",
-        "emphasisIndex": 11,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0430\u0449\u0435\u043c\u0438\u0442",
-        "wordWithEmphasis": "\u0437\u0430\u0449\u0435\u043c\u0418\u0442",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0432\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u0437\u0432\u0430\u043b\u0410",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u0437\u0432\u043e\u043d\u0438\u0442",
-        "wordWithEmphasis": "\u0437\u0432\u043e\u043d\u0418\u0442",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u043a\u0430\u0448\u043b\u044f\u043d\u0443\u0442\u044c",
-        "wordWithEmphasis": "\u043a\u0410\u0448\u043b\u044f\u043d\u0443\u0442\u044c",
-        "emphasisIndex": 1,
-        "type": "verb"
-    },
-    {
-        "word": "\u043a\u043b\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043a\u043b\u0410\u043b\u0430",
-        "emphasisIndex": 2,
-        "type": "verb"
-    },
-    {
-        "word": "\u043a\u043b\u0435\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043a\u043b\u0415\u0438\u0442\u044c",
-        "emphasisIndex": 2,
-        "type": "verb"
-    },
-    {
-        "word": "\u043a\u0440\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043a\u0440\u0410\u043b\u0430\u0441\u044c",
-        "emphasisIndex": 2,
-        "type": "verb"
-    },
-    {
-        "word": "\u043a\u0440\u043e\u0432\u043e\u0442\u043e\u0447\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043a\u0440\u043e\u0432\u043e\u0442\u043e\u0447\u0418\u0442\u044c",
-        "emphasisIndex": 8,
-        "type": "verb"
-    },
-    {
-        "word": "\u043b\u0433\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043b\u0433\u0430\u043b\u0410",
-        "emphasisIndex": 4,
-        "type": "verb"
-    },
-    {
-        "word": "\u043b\u0438\u043b\u0430",
-        "wordWithEmphasis": "\u043b\u0438\u043b\u0410",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043b\u0438\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043b\u0438\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u0432\u0440\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043d\u0430\u0432\u0440\u0430\u043b\u0410",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u0434\u0435\u043b\u0438\u0442",
-        "wordWithEmphasis": "\u043d\u0430\u0434\u0435\u043b\u0418\u0442",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u0434\u043e\u0440\u0432\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043d\u0430\u0434\u043e\u0440\u0432\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 8,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u0437\u0432\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043d\u0430\u0437\u0432\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u043a\u0440\u0435\u043d\u0438\u0442\u0441\u044f",
-        "wordWithEmphasis": "\u043d\u0430\u043a\u0440\u0435\u043d\u0418\u0442\u0441\u044f",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u043b\u0438\u043b\u0430",
-        "wordWithEmphasis": "\u043d\u0430\u043b\u0438\u043b\u0410",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u0440\u0432\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043d\u0430\u0440\u0432\u0430\u043b\u0410",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043d\u0430\u0447\u0430\u0442\u044c",
-        "wordWithEmphasis": "\u043d\u0430\u0447\u0410\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u0437\u0432\u043e\u043d\u0438\u0442",
-        "wordWithEmphasis": "\u043e\u0431\u0437\u0432\u043e\u043d\u0418\u0442",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043b\u0435\u0433\u0447\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u0431\u043b\u0435\u0433\u0447\u0418\u0442\u044c",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043b\u0438\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043e\u0431\u043b\u0438\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043d\u044f\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043e\u0431\u043d\u044f\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0433\u043d\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0433\u043d\u0430\u043b\u0410",
-        "emphasisIndex": 7,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0434\u0440\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0434\u0440\u0430\u043b\u0410",
-        "emphasisIndex": 7,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0434\u0440\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0434\u0440\u0418\u0442\u044c",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0434\u0440\u0438\u0442\u044c\u0441\u044f",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0434\u0440\u0418\u0442\u044c\u0441\u044f",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0441\u0442\u0440\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0441\u0442\u0440\u0418\u0442\u044c",
-        "emphasisIndex": 6,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u0434\u043e\u043b\u0436\u0418\u0442\u044c",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0437\u043b\u043e\u0431\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u0437\u043b\u041e\u0431\u0438\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u043a\u043b\u0435\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u043a\u043b\u0415\u0438\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u043a\u0440\u0443\u0436\u0438\u0442",
-        "wordWithEmphasis": "\u043e\u043a\u0440\u0443\u0436\u0418\u0442",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u043f\u043e\u0448\u043b\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u043f\u041e\u0448\u043b\u0438\u0442\u044c",
-        "emphasisIndex": 2,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0441\u0432\u0435\u0434\u043e\u043c\u0438\u0442\u044c\u0441\u044f",
-        "wordWithEmphasis": "\u043e\u0441\u0432\u0415\u0434\u043e\u043c\u0438\u0442\u044c\u0441\u044f",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0442\u0431\u044b\u043b\u0430",
-        "wordWithEmphasis": "\u043e\u0442\u0431\u044b\u043b\u0410",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0442\u0434\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043e\u0442\u0434\u0430\u043b\u0410",
-        "emphasisIndex": 5,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0442\u043a\u0443\u043f\u043e\u0440\u0438\u0442\u044c",
-        "wordWithEmphasis": "\u043e\u0442\u043a\u0423\u043f\u043e\u0440\u0438\u0442\u044c",
-        "emphasisIndex": 3,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0442\u043e\u0437\u0432\u0430\u043b\u0430",
-        "wordWithEmphasis": "\u043e\u0442\u043e\u0437\u0432\u0430\u043b\u0410",
-        "emphasisIndex": 7,
-        "type": "verb"
-    },
-    {
-        "word": "\u043e\u0442\u043e\u0437\u0432\u0430\u043b\u0430\u0441\u044c",
-        "wordWithEmphasis": "\u043e\u0442\u043e\u0437\u0432\u0430\u043b\u0410\u0441\u044c",
-        "emphasisIndex": 7,
-        "type": "verb"
-    },
-    {
-        "word": "\u0434\u043e\u0432\u0435\u0437\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u0434\u043e\u0432\u0435\u0437\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 5,
-        "type": "participle"
-    },
-    {
-        "word": "\u0437\u0430\u0433\u043d\u0443\u0442\u044b\u0439",
-        "wordWithEmphasis": "\u0437\u0410\u0433\u043d\u0443\u0442\u044b\u0439",
-        "emphasisIndex": 1,
-        "type": "participle"
-    },
-    {
-        "word": "\u0437\u0430\u043d\u044f\u0442\u044b\u0439",
-        "wordWithEmphasis": "\u0437\u0410\u043d\u044f\u0442\u044b\u0439",
-        "emphasisIndex": 1,
-        "type": "participle"
-    },
-    {
-        "word": "\u0437\u0430\u043f\u0435\u0440\u0442\u044b\u0439",
-        "wordWithEmphasis": "\u0437\u0410\u043f\u0435\u0440\u0442\u044b\u0439",
-        "emphasisIndex": 1,
-        "type": "participle"
-    },
-    {
-        "word": "\u0437\u0430\u0441\u0435\u043b\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u0437\u0430\u0441\u0435\u043b\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 5,
-        "type": "participle"
-    },
-    {
-        "word": "\u043a\u043e\u0440\u043c\u044f\u0449\u0438\u0439",
-        "wordWithEmphasis": "\u043a\u043e\u0440\u043c\u042f\u0449\u0438\u0439",
-        "emphasisIndex": 4,
-        "type": "participle"
-    },
-    {
-        "word": "\u043a\u0440\u043e\u0432\u043e\u0442\u043e\u0447\u0430\u0449\u0438\u0439",
-        "wordWithEmphasis": "\u043a\u0440\u043e\u0432\u043e\u0442\u043e\u0447\u0410\u0449\u0438\u0439",
-        "emphasisIndex": 8,
-        "type": "participle"
-    },
-    {
-        "word": "\u043d\u0430\u0436\u0438\u0432\u0448\u0438\u0439",
-        "wordWithEmphasis": "\u043d\u0430\u0436\u0418\u0432\u0448\u0438\u0439",
-        "emphasisIndex": 3,
-        "type": "participle"
-    },
-    {
-        "word": "\u043d\u0430\u043b\u0438\u0432\u0448\u0438\u0439",
-        "wordWithEmphasis": "\u043d\u0430\u043b\u0418\u0432\u0448\u0438\u0439",
-        "emphasisIndex": 3,
-        "type": "participle"
-    },
-    {
-        "word": "\u043d\u0430\u043d\u044f\u0432\u0448\u0438\u0439\u0441\u044f",
-        "wordWithEmphasis": "\u043d\u0430\u043d\u042f\u0432\u0448\u0438\u0439\u0441\u044f",
-        "emphasisIndex": 3,
-        "type": "participle"
-    },
-    {
-        "word": "\u043d\u0430\u0447\u0430\u0432\u0448\u0438\u0439",
-        "wordWithEmphasis": "\u043d\u0430\u0447\u0410\u0432\u0448\u0438\u0439",
-        "emphasisIndex": 3,
-        "type": "participle"
-    },
-    {
-        "word": "\u043d\u0430\u0447\u0430\u0442\u044b\u0439",
-        "wordWithEmphasis": "\u043d\u0410\u0447\u0430\u0442\u044b\u0439",
-        "emphasisIndex": 1,
-        "type": "participle"
-    },
-    {
-        "word": "\u043d\u0438\u0437\u0432\u0435\u0434\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043d\u0438\u0437\u0432\u0435\u0434\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u043e\u0431\u043b\u0435\u0433\u0447\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043e\u0431\u043b\u0435\u0433\u0447\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0434\u0440\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0434\u0440\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 5,
-        "type": "participle"
-    },
-    {
-        "word": "\u043e\u0431\u043e\u0441\u0442\u0440\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043e\u0431\u043e\u0441\u0442\u0440\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u043e\u0442\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043e\u0442\u043a\u043b\u044e\u0447\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u043f\u043e\u0432\u0442\u043e\u0440\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043f\u043e\u0432\u0442\u043e\u0440\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u043f\u043e\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043f\u043e\u0434\u0435\u043b\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 5,
-        "type": "participle"
-    },
-    {
-        "word": "\u043f\u043e\u043d\u044f\u0432\u0448\u0438\u0439",
-        "wordWithEmphasis": "\u043f\u043e\u043d\u042f\u0432\u0448\u0438\u0439",
-        "emphasisIndex": 3,
-        "type": "participle"
-    },
-    {
-        "word": "\u043f\u0440\u0438\u043d\u044f\u0442\u044b\u0439",
-        "wordWithEmphasis": "\u043f\u0440\u0418\u043d\u044f\u0442\u044b\u0439",
-        "emphasisIndex": 2,
-        "type": "participle"
-    },
-    {
-        "word": "\u043f\u0440\u0438\u0440\u0443\u0447\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u043f\u0440\u0438\u0440\u0443\u0447\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u043f\u0440\u043e\u0436\u0438\u0432\u0448\u0438\u0439",
-        "wordWithEmphasis": "\u043f\u0440\u043e\u0436\u0418\u0432\u0448\u0438\u0439",
-        "emphasisIndex": 4,
-        "type": "participle"
-    },
-    {
-        "word": "\u0441\u043d\u044f\u0442\u0430",
-        "wordWithEmphasis": "\u0441\u043d\u044f\u0442\u0410",
-        "emphasisIndex": 4,
-        "type": "participle"
-    },
-    {
-        "word": "\u0441\u043e\u0433\u043d\u0443\u0442\u044b\u0439",
-        "wordWithEmphasis": "\u0441\u041e\u0433\u043d\u0443\u0442\u044b\u0439",
-        "emphasisIndex": 1,
-        "type": "participle"
-    },
-    {
-        "word": "\u0443\u0433\u043b\u0443\u0431\u043b\u0451\u043d\u043d\u044b\u0439",
-        "wordWithEmphasis": "\u0443\u0433\u043b\u0443\u0431\u043b\u0401\u043d\u043d\u044b\u0439",
-        "emphasisIndex": 6,
-        "type": "participle"
-    },
-    {
-        "word": "\u0432\u043e\u0432\u0440\u0435\u043c\u044f",
-        "wordWithEmphasis": "\u0432\u041e\u0432\u0440\u0435\u043c\u044f",
-        "emphasisIndex": 1,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0434\u043e\u0432\u0435\u0440\u0445\u0443",
-        "wordWithEmphasis": "\u0434\u041e\u0432\u0435\u0440\u0445\u0443",
-        "emphasisIndex": 1,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0434\u043e\u043d\u0435\u043b\u044c\u0437\u044f",
-        "wordWithEmphasis": "\u0434\u043e\u043d\u0415\u043b\u044c\u0437\u044f",
-        "emphasisIndex": 3,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0434\u043e\u043d\u0438\u0437\u0443",
-        "wordWithEmphasis": "\u0434\u041e\u043d\u0438\u0437\u0443",
-        "emphasisIndex": 1,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0434\u043e\u0441\u0443\u0445\u0430",
-        "wordWithEmphasis": "\u0434\u041e\u0441\u0443\u0445\u0430",
-        "emphasisIndex": 1,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0437\u0430\u0441\u0432\u0435\u0442\u043b\u043e",
-        "wordWithEmphasis": "\u0437\u0410\u0441\u0432\u0435\u0442\u043b\u043e",
-        "emphasisIndex": 1,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0437\u0430\u0442\u0435\u043c\u043d\u043e",
-        "wordWithEmphasis": "\u0437\u0410\u0442\u0435\u043c\u043d\u043e",
-        "emphasisIndex": 1,
-        "type": "adverb"
-    },
-    {
-        "word": "\u043a\u0440\u0430\u0441\u0438\u0432\u0435\u0435",
-        "wordWithEmphasis": "\u043a\u0440\u0430\u0441\u0418\u0432\u0435\u0435",
-        "emphasisIndex": 4,
-        "type": "adverb"
-    },
-    {
-        "word": "\u043d\u0430\u0434\u043e\u043b\u0433\u043e",
-        "wordWithEmphasis": "\u043d\u0430\u0434\u041e\u043b\u0433\u043e",
-        "emphasisIndex": 3,
-        "type": "adverb"
-    },
-    {
-        "word": "\u043d\u0435\u043d\u0430\u0434\u043e\u043b\u0433\u043e",
-        "wordWithEmphasis": "\u043d\u0435\u043d\u0430\u0434\u041e\u043b\u0433\u043e",
-        "emphasisIndex": 5,
-        "type": "adverb"
-    },
-    {
-        "word": "\u0437\u0430\u043a\u0443\u043f\u043e\u0440\u0438\u0432",
-        "wordWithEmphasis": "\u0437\u0430\u043a\u0423\u043f\u043e\u0440\u0438\u0432",
-        "emphasisIndex": 3,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u043d\u0430\u0447\u0430\u0432",
-        "wordWithEmphasis": "\u043d\u0430\u0447\u0410\u0432",
-        "emphasisIndex": 3,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u043d\u0430\u0447\u0430\u0432\u0448\u0438\u0441\u044c",
-        "wordWithEmphasis": "\u043d\u0430\u0447\u0410\u0432\u0448\u0438\u0441\u044c",
-        "emphasisIndex": 3,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u043e\u0442\u0434\u0430\u0432",
-        "wordWithEmphasis": "\u043e\u0442\u0434\u0410\u0432",
-        "emphasisIndex": 3,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u043f\u043e\u0434\u043d\u044f\u0432",
-        "wordWithEmphasis": "\u043f\u043e\u0434\u043d\u042f\u0432",
-        "emphasisIndex": 4,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u043f\u043e\u043d\u044f\u0432",
-        "wordWithEmphasis": "\u043f\u043e\u043d\u042f\u0432",
-        "emphasisIndex": 3,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u043f\u0440\u0438\u0431\u044b\u0432",
-        "wordWithEmphasis": "\u043f\u0440\u0438\u0431\u042b\u0432",
-        "emphasisIndex": 4,
-        "type": "dparticiple"
-    },
-    {
-        "word": "\u0441\u043e\u0437\u0434\u0430\u0432",
-        "wordWithEmphasis": "\u0441\u043e\u0437\u0434\u0410\u0432",
-        "emphasisIndex": 4,
-        "type": "dparticiple"
-    }
+        "type": "noun",
+        "context": "посла из страны"
+    },
+    { "word": "отрочество", "emphasisIndex": 0, "type": "noun" },
+    { "word": "партер", "emphasisIndex": 4, "type": "noun" },
+    { "word": "портфель", "emphasisIndex": 5, "type": "noun" },
+    { "word": "поручни", "emphasisIndex": 1, "type": "noun" },
+    { "word": "приданое", "emphasisIndex": 4, "type": "noun" },
+    { "word": "призыв", "emphasisIndex": 4, "type": "noun" },
+    { "word": "свекла", "emphasisIndex": 2, "type": "noun" },
+    { "word": "сироты", "emphasisIndex": 3, "type": "noun" },
+    { "word": "созыв", "emphasisIndex": 3, "type": "noun" },
+    { "word": "сосредоточение", "emphasisIndex": 8, "type": "noun" },
+    { "word": "средства", "emphasisIndex": 2, "type": "noun" },
+    { "word": "статуя", "emphasisIndex": 2, "type": "noun" },
+    { "word": "столяр", "emphasisIndex": 4, "type": "noun" },
+    { "word": "таможня", "emphasisIndex": 3, "type": "noun" },
+    { "word": "торты", "emphasisIndex": 1, "type": "noun" },
+    { "word": "туфля", "emphasisIndex": 1, "type": "noun" },
+    { "word": "цемент", "emphasisIndex": 3, "type": "noun" },
+    { "word": "центнер", "emphasisIndex": 1, "type": "noun" },
+    { "word": "цепочка", "emphasisIndex": 3, "type": "noun" },
+    { "word": "шарфы", "emphasisIndex": 1, "type": "noun" },
+    { "word": "шофер", "emphasisIndex": 3, "type": "noun" },
+    { "word": "эксперт", "emphasisIndex": 4, "type": "noun" },
+    { "word": "верна", "emphasisIndex": 4, "type": "adjective" },
+    { "word": "значимый", "emphasisIndex": 2, "type": "adjective" },
+    { "word": "красивее", "emphasisIndex": 4, "type": "adjective" },
+    { "word": "кухонный", "emphasisIndex": 1, "type": "adjective" },
+    { "word": "ловка", "emphasisIndex": 4, "type": "adjective" },
+    { "word": "мозаичный", "emphasisIndex": 4, "type": "adjective" },
+    { "word": "оптовый", "emphasisIndex": 3, "type": "adjective" },
+    { "word": "прозорливый", "emphasisIndex": 7, "type": "adjective" },
+    { "word": "сливовый", "emphasisIndex": 2, "type": "adjective" },
+    { "word": "брала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "бралась", "emphasisIndex": 4, "type": "verb" },
+    { "word": "взяла", "emphasisIndex": 4, "type": "verb" },
+    { "word": "взялась", "emphasisIndex": 4, "type": "verb" },
+    { "word": "влилась", "emphasisIndex": 4, "type": "verb" },
+    { "word": "ворвалась", "emphasisIndex": 6, "type": "verb" },
+    { "word": "воспринять", "emphasisIndex": 7, "type": "verb" },
+    { "word": "воссоздала", "emphasisIndex": 9, "type": "verb" },
+    { "word": "вручит", "emphasisIndex": 4, "type": "verb" },
+    { "word": "гнала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "гналась", "emphasisIndex": 4, "type": "verb" },
+    { "word": "добрала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "добралась", "emphasisIndex": 6, "type": "verb" },
+    { "word": "дождалась", "emphasisIndex": 6, "type": "verb" },
+    { "word": "дозвонится", "emphasisIndex": 6, "type": "verb" },
+    { "word": "дозировать", "emphasisIndex": 3, "type": "verb" },
+    { "word": "ждала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "жилось", "emphasisIndex": 3, "type": "verb" },
+    { "word": "закупорить", "emphasisIndex": 3, "type": "verb" },
+    { "word": "занять", "emphasisIndex": 3, "type": "verb" },
+    { "word": "заперла", "emphasisIndex": 6, "type": "verb" },
+    { "word": "запломбировать", "emphasisIndex": 11, "type": "verb" },
+    { "word": "защемит", "emphasisIndex": 5, "type": "verb" },
+    { "word": "звала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "звонит", "emphasisIndex": 4, "type": "verb" },
+    { "word": "кашлянуть", "emphasisIndex": 1, "type": "verb" },
+    { "word": "клала", "emphasisIndex": 2, "type": "verb" },
+    { "word": "клеить", "emphasisIndex": 2, "type": "verb" },
+    { "word": "кралась", "emphasisIndex": 2, "type": "verb" },
+    { "word": "кровоточить", "emphasisIndex": 8, "type": "verb" },
+    { "word": "лгала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "лила", "emphasisIndex": 3, "type": "verb" },
+    { "word": "лилась", "emphasisIndex": 3, "type": "verb" },
+    { "word": "наврала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "наделит", "emphasisIndex": 5, "type": "verb" },
+    { "word": "надорвалась", "emphasisIndex": 8, "type": "verb" },
+    { "word": "назвалась", "emphasisIndex": 6, "type": "verb" },
+    { "word": "накренится", "emphasisIndex": 6, "type": "verb" },
+    { "word": "налила", "emphasisIndex": 5, "type": "verb" },
+    { "word": "нарвала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "начать", "emphasisIndex": 3, "type": "verb" },
+    { "word": "обзвонит", "emphasisIndex": 6, "type": "verb" },
+    { "word": "облегчить", "emphasisIndex": 6, "type": "verb" },
+    { "word": "облилась", "emphasisIndex": 5, "type": "verb" },
+    { "word": "обнялась", "emphasisIndex": 5, "type": "verb" },
+    { "word": "обогнала", "emphasisIndex": 7, "type": "verb" },
+    { "word": "ободрала", "emphasisIndex": 7, "type": "verb" },
+    { "word": "ободрить", "emphasisIndex": 5, "type": "verb" },
+    { "word": "ободриться", "emphasisIndex": 5, "type": "verb" },
+    { "word": "обострить", "emphasisIndex": 6, "type": "verb" },
+    { "word": "одолжить", "emphasisIndex": 5, "type": "verb" },
+    { "word": "озлобить", "emphasisIndex": 3, "type": "verb" },
+    { "word": "оклеить", "emphasisIndex": 3, "type": "verb" },
+    { "word": "окружит", "emphasisIndex": 5, "type": "verb" },
+    { "word": "опошлить", "emphasisIndex": 2, "type": "verb" },
+    { "word": "осведомиться", "emphasisIndex": 3, "type": "verb" },
+    { "word": "отбыла", "emphasisIndex": 5, "type": "verb" },
+    { "word": "отдала", "emphasisIndex": 5, "type": "verb" },
+    { "word": "откупорить", "emphasisIndex": 3, "type": "verb" },
+    { "word": "отозвала", "emphasisIndex": 7, "type": "verb" },
+    { "word": "отозвалась", "emphasisIndex": 7, "type": "verb" },
+    { "word": "перезвонит", "emphasisIndex": 8, "type": "verb" },
+    { "word": "перелила", "emphasisIndex": 7, "type": "verb" },
+    { "word": "плодоносить", "emphasisIndex": 8, "type": "verb" },
+    { "word": "пломбировать", "emphasisIndex": 9, "type": "verb" },
+    { "word": "повторит", "emphasisIndex": 6, "type": "verb" },
+    { "word": "позвала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "позвонит", "emphasisIndex": 6, "type": "verb" },
+    { "word": "полила", "emphasisIndex": 5, "type": "verb" },
+    { "word": "положить", "emphasisIndex": 5, "type": "verb" },
+    { "word": "понять", "emphasisIndex": 3, "type": "verb" },
+    { "word": "послала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "прибыть", "emphasisIndex": 4, "type": "verb" },
+    { "word": "принять", "emphasisIndex": 4, "type": "verb" },
+    { "word": "рвала", "emphasisIndex": 4, "type": "verb" },
+    { "word": "сверлит", "emphasisIndex": 5, "type": "verb" },
+    { "word": "сняла", "emphasisIndex": 4, "type": "verb" },
+    { "word": "соврала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "создала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "сорвала", "emphasisIndex": 6, "type": "verb" },
+    { "word": "сорит", "emphasisIndex": 3, "type": "verb" },
+    { "word": "убрала", "emphasisIndex": 5, "type": "verb" },
+    { "word": "углубить", "emphasisIndex": 5, "type": "verb" },
+    { "word": "укрепит", "emphasisIndex": 5, "type": "verb" },
+    { "word": "черпать", "emphasisIndex": 1, "type": "verb" },
+    { "word": "щемит", "emphasisIndex": 3, "type": "verb" },
+    { "word": "щелкать", "emphasisIndex": 1, "type": "verb" },
+    { "word": "довезенный", "emphasisIndex": 5, "type": "participle" },
+    { "word": "загнутый", "emphasisIndex": 1, "type": "participle" },
+    { "word": "занятый", "emphasisIndex": 1, "type": "participle" },
+    { "word": "запертый", "emphasisIndex": 1, "type": "participle" },
+    { "word": "заселенный", "emphasisIndex": 5, "type": "participle" },
+    { "word": "кормящий", "emphasisIndex": 4, "type": "participle" },
+    { "word": "кровоточащий", "emphasisIndex": 8, "type": "participle" },
+    { "word": "наживший", "emphasisIndex": 3, "type": "participle" },
+    { "word": "наливший", "emphasisIndex": 3, "type": "participle" },
+    { "word": "нанявшийся", "emphasisIndex": 3, "type": "participle" },
+    { "word": "начавший", "emphasisIndex": 3, "type": "participle" },
+    { "word": "начатый", "emphasisIndex": 1, "type": "participle" },
+    { "word": "низведенный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "облегченный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "ободренный", "emphasisIndex": 5, "type": "participle" },
+    { "word": "обостренный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "отключенный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "повторенный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "поделенный", "emphasisIndex": 5, "type": "participle" },
+    { "word": "понявший", "emphasisIndex": 3, "type": "participle" },
+    { "word": "принятый", "emphasisIndex": 2, "type": "participle" },
+    { "word": "прирученный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "проживший", "emphasisIndex": 4, "type": "participle" },
+    { "word": "снята", "emphasisIndex": 4, "type": "participle" },
+    { "word": "согнутый", "emphasisIndex": 1, "type": "participle" },
+    { "word": "углубленный", "emphasisIndex": 6, "type": "participle" },
+    { "word": "закупорив", "emphasisIndex": 3, "type": "dparticiple" },
+    { "word": "начав", "emphasisIndex": 3, "type": "dparticiple" },
+    { "word": "начавшись", "emphasisIndex": 3, "type": "dparticiple" },
+    { "word": "отдав", "emphasisIndex": 3, "type": "dparticiple" },
+    { "word": "подняв", "emphasisIndex": 4, "type": "dparticiple" },
+    { "word": "поняв", "emphasisIndex": 3, "type": "dparticiple" },
+    { "word": "прибыв", "emphasisIndex": 4, "type": "dparticiple" },
+    { "word": "создав", "emphasisIndex": 4, "type": "dparticiple" },
+    { "word": "вовремя", "emphasisIndex": 1, "type": "adverb" },
+    { "word": "доверху", "emphasisIndex": 1, "type": "adverb" },
+    { "word": "донельзя", "emphasisIndex": 3, "type": "adverb" },
+    { "word": "донизу", "emphasisIndex": 1, "type": "adverb" },
+    { "word": "досуха", "emphasisIndex": 1, "type": "adverb" },
+    { "word": "засветло", "emphasisIndex": 1, "type": "adverb" },
+    { "word": "затемно", "emphasisIndex": 1, "type": "adverb" },
+    { "word": "красивее", "emphasisIndex": 4, "type": "adverb" },
+    { "word": "надолго", "emphasisIndex": 3, "type": "adverb" },
+    { "word": "ненадолго", "emphasisIndex": 5, "type": "adverb" }
 ]

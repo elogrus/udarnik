@@ -17,7 +17,8 @@ const Game = ({ countWords = 10, showRecord = true }) => {
     const [isLastWon, setIsLastWon] = useState(false);
 
     const setRecord = (record) => {
-        if (localStorage.getItem('record') < record) localStorage.setItem("record", record);
+        if (localStorage.getItem("record") < record)
+            localStorage.setItem("record", record);
     };
 
     const startGame = () => {
@@ -53,7 +54,7 @@ const Game = ({ countWords = 10, showRecord = true }) => {
             addScore();
         } else {
             setRecord(score);
-            stopGame()
+            stopGame();
         }
     };
 
@@ -77,7 +78,8 @@ const Game = ({ countWords = 10, showRecord = true }) => {
                     )}
                     {showRecord && (
                         <p className={styles.score}>
-                            Текущий рекорд: {localStorage.getItem("record") || 0}
+                            Текущий рекорд:{" "}
+                            {localStorage.getItem("record") || 0}
                         </p>
                     )}
                     <Button className={styles.startButton} onClick={startGame}>
@@ -90,14 +92,28 @@ const Game = ({ countWords = 10, showRecord = true }) => {
                 <>
                     <ScorePanel finishScore={countWords}>{score}</ScorePanel>
                     <div className={styles.wordPlayground}>
-                        {words[curStep]?.word.split("").map((letter, index) => (
-                            <LetterBox
-                                onClick={(e) =>
-                                    onSelectLetter(index, words[curStep], e)
-                                }>
-                                {letter}
-                            </LetterBox>
-                        ))}
+                        <div className={styles.letters}>
+                            {words[curStep]?.word
+                                .split("")
+                                .map((letter, index) => (
+                                    <LetterBox
+                                        onClick={(e) =>
+                                            onSelectLetter(
+                                                index,
+                                                words[curStep],
+                                                e
+                                            )
+                                        }
+                                    >
+                                        {letter}
+                                    </LetterBox>
+                                ))}
+                        </div>
+                        {words[curStep]?.context && (
+                            <div className={styles.wordContext}>
+                                ({words[curStep]?.context})
+                            </div>
+                        )}
                     </div>
                 </>
             )}
@@ -109,26 +125,36 @@ const Game = ({ countWords = 10, showRecord = true }) => {
 
                     {showRecord && (
                         <p className={styles.score}>
-                            Текущий рекорд: {localStorage.getItem("record") || 0}
+                            Текущий рекорд:{" "}
+                            {localStorage.getItem("record") || 0}
                         </p>
                     )}
                     {!isLastWon && (
                         <div className={styles.wordPlayground}>
-                            {words[curStep]?.word
-                                .split("")
-                                .map((letter, index) => (
-                                    <LetterBox
-                                        mode={
-                                            index ===
-                                            words[curStep].emphasisIndex
-                                                ? "right"
-                                                : index === lastSelectedIndex
-                                                ? "not-right"
-                                                : "not-selected"
-                                        }>
-                                        {letter}
-                                    </LetterBox>
-                                ))}
+                            <div className={styles.letters}>
+                                {words[curStep]?.word
+                                    .split("")
+                                    .map((letter, index) => (
+                                        <LetterBox
+                                            mode={
+                                                index ===
+                                                words[curStep].emphasisIndex
+                                                    ? "right"
+                                                    : index ===
+                                                      lastSelectedIndex
+                                                    ? "not-right"
+                                                    : "not-selected"
+                                            }
+                                        >
+                                            {letter}
+                                        </LetterBox>
+                                    ))}
+                            </div>
+                            {words[curStep]?.context && (
+                                <div className={styles.wordContext}>
+                                    ({words[curStep]?.context})
+                                </div>
+                            )}
                         </div>
                     )}
 

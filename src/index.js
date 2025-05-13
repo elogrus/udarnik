@@ -1,14 +1,13 @@
-import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
 import { RouterProvider, createHashRouter } from "react-router-dom";
+import "./index.css";
+import Aboutme from "./routes/Aboutme/Aboutme";
+import Lifehacks from "./routes/Lifehacks/Lifehacks";
+import ListWords from "./routes/ListWords/ListWords";
 import Notfound from "./routes/Notfound/Notfound";
 import Root from "./routes/Root/Root";
-import Test from "./routes/Test/Test";
 import Survival from "./routes/Survival/Survival";
-import ListWords from "./routes/ListWords/ListWords";
-import Lifehacks from "./routes/Lifehacks/Lifehacks";
-import Aboutme from "./routes/Aboutme/Aboutme";
+import Test from "./routes/Test/Test";
 
 const router = createHashRouter([
     {
